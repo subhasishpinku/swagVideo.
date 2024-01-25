@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/selected_tab_item"
+        android:state_selected="true" />
+
+    <item
+        android:drawable="@drawable/unselected_tab_item"
+        android:state_selected="false"
+        android:state_focused="false"
+        android:state_pressed="false" />
+
+</selector>
+
+<!--
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/selected_tab_item" android:state_selected="true">
+        <shape>
+            <padding android:bottom="@dimen/space_10" android:top="@dimen/space_10" />
+        </shape>
+    </item>
+    <item
+
+        android:drawable="@drawable/unselected_tab_item" android:state_selected="false">
+        <shape>
+            <padding android:bottom="@dimen/space_10" android:top="@dimen/space_10" />
+        </shape>
+    </item>
+</selector>-->

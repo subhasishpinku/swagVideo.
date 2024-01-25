@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763657788585",
+    "project_id": "swagvideo",
+    "storage_bucket": "swagvideo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763657788585:android:48e3a06730125a78739db8",
+        "android_client_info": {
+          "package_name": "com.swagvideo.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763657788585-3q54ranj7e3p87fdtufufth5aa103l0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS1Odvo11X3nyvoKL8ror_7HcjzrakFJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763657788585-3q54ranj7e3p87fdtufufth5aa103l0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

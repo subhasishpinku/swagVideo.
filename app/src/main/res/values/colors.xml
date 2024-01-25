@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#008eaa</color>
+    <color name="colorPrimaryDark">#006c88</color>
+    <color name="colorAccent">#00c16e</color>
+    <color name="colorAccentDark">#00a04c</color>
+    <color name="buttonBackground">#ff6600</color>
+    <color name="buttonBackgroundDark">#ff005e</color>
+    <color name="colorBadgeUnseen">@color/colorPrimary</color>
+    <color name="colorBadgeVerified">@color/colorAccent</color>
+    <color name="colorBadgeProfile">@color/colorPrimary</color>
+
+    <color name="colorButtonFacebook">#3b5998</color>
+    <color name="colorButtonGoogle">#ea4335</color>
+    <color name="colorButtonSms">#fbbc05</color>
+    <color name="colorButtonEmail">#008eaa</color>
+
+    <color name="colorRed">#FF023B</color>
+    <color name="colorYellow">#FCE114</color>
+    <color name="colorCornflowerBlue">#28C5C6</color>
+    <color name="colorJava">#1bd0d1</color>
+    <color name="colorGrey">#878787</color>
+    <color name="colorGrey1">#121212</color>
+    <color name="colorLightGrey">#DADADA</color>
+
+    <color name="colorIntro1Background">@color/colorPrimary</color>
+    <color name="colorIntro1Buttons">@color/colorPrimaryDark</color>
+    <color name="colorIntro2Background">@color/colorPrimary</color>
+    <color name="colorIntro2Buttons">@color/colorPrimaryDark</color>
+
+    <color name="colorLanguageIcon">#33000000</color>
+    <color name="colorLanguageText">@android:color/white</color>
+
+    <color name="colorLike">#e4002b</color>
+
+    <color name="colorNavigationBar">#111</color>
+    <color name="colorNavigationActive">@android:color/white</color>
+    <color name="colorNavigationInactive">#ccc</color>
+    <color name="colorNavigationMain">@color/colorPrimary</color>
+    <color name="colorNavigationMainPressed">@color/colorPrimaryDark</color>
+
+    <color name="colorPlayerProgressTrack">#55ffffff</color>
+    <color name="transBlack">#552d2d2d</color>
+    <color name="colorPlayerProgressFill">@android:color/white</color>
+
+    <color name="colorPromotionBackground">#55000000</color>
+    <color name="colorPromotionText">@android:color/white</color>
+
+    <color name="colorSpeedBackground">#99ffffff</color>
+    <color name="white">#ffffff</color>
+</resources>

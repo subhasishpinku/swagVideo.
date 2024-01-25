@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "192253851143",
+    "project_id": "swagvideo-a9bc7",
+    "storage_bucket": "swagvideo-a9bc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192253851143:android:6a746ea4ba28a407a7dca2",
+        "android_client_info": {
+          "package_name": "com.swagvideo.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192253851143-e72adst17lsd0lqp4u4d4nutm7ale2gd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swagvideo.in",
+            "certificate_hash": "5e07d774839e2c9a282fe9a0ae5be013c5ab80ce"
+          }
+        },
+        {
+          "client_id": "192253851143-n5dusq5fhtbctki9m9b0ba458ob14aln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swagvideo.in",
+            "certificate_hash": "48df2b5aa4066b4c8404a518a606d88473442d63"
+          }
+        },
+        {
+          "client_id": "192253851143-6jol30pupiog0b25rsop9vbf9b724cpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKHgC9G_41m6eRuq2JxaxssQbxErhQC2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192253851143-6jol30pupiog0b25rsop9vbf9b724cpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
